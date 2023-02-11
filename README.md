@@ -1,5 +1,8 @@
-# tvdigital id HTTP ONLY
+# tvdigital id HTTP ONLY (no ssl error for old IPTV)
 m3u for IPTV indonesia
+
+128 Channel
+90%++ Online Channel
 
 Usage:
 Download the file or directly paste this link to iptv player
