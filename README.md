@@ -1,5 +1,12 @@
 # tvdigital id HTTP ONLY
-m3u8 for OTT Navigator / IPTV 
-m3u file download manual or use this link to direct download:
+m3u for IPTV indonesia
+
+Usage:
+Download the file or directly paste this link to iptv player
 
 
+https://mgi24.github.io/tvdigital/idwork.m3u
+
+If your iptv is too old, you might get ssl error.
+Download the file manually then import the file
+idwork.m3u to iptv
